@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b3055340bab85650a49bb8b5",
+  "owner": "uedepyts",
+  "repo": "page-9ba9830b1f1c49359fd9af53",
+  "title": "KopCloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9ba9830b1f1c49359fd9af53",
+      "a": "KopCloud",
+      "b": "机场官网线路发布页",
+      "entity": "KopCloud",
+      "brand": "KopCloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "da63d50eda688aef4e94f40db55eaa8b3ae4644e8acbe09c8196756ee7be7db1",
+      "content": {
+        "primary_entity": "KopCloud",
+        "keyword1": "KopCloud",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端：Windows 与 macOS 桌面端、Android 与 iOS 移动端，导入订阅链接即可开始使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，再按客户端说明导入订阅即可。",
+          "AI_CLOSING_TITLE": "选好套餐，顺畅连接",
+          "AI_DESCRIPTION": "，KopCloud 提供基础版、旗舰版与团队版三档套餐，分别对应 100GB、300GB 与 1000GB 月流量，满足单人、多设备与团队场景；支持 Windows、macOS、Android 与 iOS 客户端订阅，解锁流媒体与游戏加速线路，按年付费更省。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备；团队版每月 1000GB，支持 20 台设备。按设备数量与月流量需求选择即可。",
+          "AI_FAQ_ANSWER_2": "在客户端中导入订阅链接即可完成配置，订阅链接包含节点信息与流量参数，导入后节点列表会自动更新。",
+          "AI_FAQ_ANSWER_3": "可以，同一账号在不同设备上登录受套餐设备数上限约束，基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。",
+          "AI_FAQ_ANSWER_4": "支持按年付费，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相比月付方式更划算。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合对延迟和内容解锁有要求的用户；团队版则提供 VIP 高带宽节点与企业定制路由。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐选择。",
+          "AI_FAQ_QUESTION_1": "KopCloud 三档套餐在流量和设备数量上有什么区别？",
+          "AI_FAQ_QUESTION_2": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "同一个账号可以在多台设备上使用吗？",
+          "AI_FAQ_QUESTION_4": "是否支持按年付费？价格如何？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版在流媒体与游戏加速上有什么特点？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数量到订阅周期，按实际使用需求匹配合适套餐。",
+          "AI_FEATURES_TITLE": "套餐与设备匹配要点",
+          "AI_FEATURE_TEXT_1": "基础版适合个人日常浏览，旗舰版适合多设备与流媒体，团队版适合多人协作场景。",
+          "AI_FEATURE_TEXT_2": "桌面端与移动端客户端均支持订阅导入，节点信息随订阅自动更新。",
+          "AI_FEATURE_TEXT_3": "按年付费可减少续费操作，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "按需求选套餐",
+          "AI_FEATURE_TITLE_2": "订阅导入客户端",
+          "AI_FEATURE_TITLE_3": "年付周期更省",
+          "AI_GUIDE_INTRO": "从套餐选择到订阅导入，按三个步骤完成使用准备。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "KopCloud 提供基础版、旗舰版与团队版三档海外加速套餐，覆盖 100GB 至 1000GB 月流量与 3 至 20 台设备在线，支持主流客户端订阅导入，适合日常浏览、流媒体观看与游戏加速场景。",
+          "AI_HERO_SUBTITLE": "KopCloud 海外加速套餐",
+          "AI_HIGHLIGHT_1": "基础版 100GB / 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 300GB / 5 台设备",
+          "AI_HIGHLIGHT_3": "团队版 1000GB / 20 台设备",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付费分别 ¥150、¥350、¥850，按流量与设备数选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数量，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看套餐对应的设备数量与客户端列表，确认日常使用的系统是否在列。",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅链接，完成节点配置后即可开始使用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "KopCloud 套餐与订阅"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qhhjq.cn",
+    "host": "qhhjq.cn"
+  },
+  "file_hashes": {
+    "index.html": "6f72e4e992f0c6745c045302275617bdaf85064ae5226208f1097e9d61f733f7",
+    "sitemap.xml": "7f0667f1fba598810e212b38146131b168937bf9f26668e407f4805cdae31b17",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c8f4b4902a2e47eaea26b36d8ea1ed618000858c6a82eba1562a1a50a4c215f2",
+    "robots.txt": "d1d87e218d9dd498e0c266c9b0534c2c618b508610750b04b6ce0049696417a4",
+    "6b9013155d3af7ec0fe133aa3f55d5ca.txt": "d109abc9f098eb0a43baca44eb94ac6009ff9b5ef1192e21eccbcbdba3b4fd56"
+  },
+  "revision": "c42508bba31a776a2f28916eb44ae8870a10a6889daf9ac4d834704d74b88dac"
+}
